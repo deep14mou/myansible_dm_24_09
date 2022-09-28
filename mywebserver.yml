@@ -1,7 +1,0 @@
----
--hosts: all
-tasks:
-- name: install web servers
-apt:
-name: apache2
-state: present 
